@@ -83,10 +83,10 @@ body {
   justify-content: center;
   border: 1px solid #ccc;
   background: #ccc;
-  min-height: 500px;
-  min-width: 500px;
-  max-width: 500px;
-  max-height: 500px;
+  min-height: 1200px;
+  min-width: 1200px;
+  max-width: 1200px;
+  max-height: 1200px;
 }
 
 .hide {
